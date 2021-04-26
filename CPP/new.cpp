@@ -7,7 +7,7 @@ int main()
     int *a=new int[num];
     for (int i=0;i<num;i++)
     {
-        cin >> a[i];
+        cin >> *(a+i);
     }
     for(int i=0;i<num;i++)
         cout << a[i] << "   ";
