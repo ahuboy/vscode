@@ -8,7 +8,7 @@
         "cmath": "cpp"
     },
     "C_Cpp.errorSquiggles": "Enabled",
-    "jupyter.jupyterServerType": "remote",
+    "jupyter.jupyterServerType": "local",
     "powermode.enabled": true,
     "powermode.enableShake": false
 }
